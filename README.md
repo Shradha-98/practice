@@ -1,2 +1,3 @@
 # practice
-Author - Shradha
+Author - Shradha Rauth
+
